@@ -1,0 +1,32 @@
+.contact-info img{
+    height: 30%;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.contact-info{
+    display:flex;
+    gap: 50px;
+}
+
+h4{
+    color: rgb(237, 181, 112);
+}
+
+.name{
+    background-color:blanchedalmond
+}
+
+.portfolio  {
+    /* height: 100px;
+    width: 50px;*/
+height:"250px";
+ width:250px}
+
+ button{
+    background-color: blanchedalmond;
+ }
+
+ .pics{
+    display: flex;
+ }
